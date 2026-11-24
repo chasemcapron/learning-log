@@ -15,14 +15,14 @@
 | Date | What I learned | Topic | Time |
 | :-- | :-- | :-- | --: |
 | Nov 24 | [Alerting on AWS account activity with CloudTrail and CloudWatch](entries/2026/2026-11-24.md) | `Cloud Security` | 75 min |
-| Nov 19 | [Cloud Security (Logging & Monitoring)](entries/2026/2026-11-19.md) | `AWS Cloud Security` | 45 min |
+| Nov 19 | [Cloud Security (Logging & Monitoring)](entries/2026/2026-11-19.md) | `Cloud Security` | 45 min |
 | Nov 17 | [Encrypting S3 objects and EBS volumes with AWS KMS](entries/2026/2026-11-17.md) | `Cloud Security` | 75 min |
 | Nov 10 | [Locking down VPC traffic with security groups, NACLs and Session Manager](entries/2026/2026-11-10.md) | `Cloud Security` | 90 min |
 | Oct 29 | [How IAM policies, roles and S3 bucket policies decide access](entries/2026/2026-10-29.md) | `Cloud Security` | 60 min |
 
 ### `$ sort topics | uniq -c`
 
-`Cloud Security · 4` &nbsp; `AWS Cloud Security · 1`
+`Cloud Security · 5`
 
 ### `$ cat HOW_TO.md`
 
